@@ -6,3 +6,5 @@
 /pkg/
 /spec/reports/
 /tmp/
+/test/sandbox/log/
+/test/sandbox/tmp/
