@@ -1,4 +1,4 @@
-require "test_helper"
+require "sandbox_helper"
 
 class SandboxIntegrationTest < ActionDispatch::IntegrationTest
   def test_welcome

@@ -1,4 +1,4 @@
-require "test_helper"
+require "sandbox_helper"
 
 class SandboxUnitTest < ActiveSupport::TestCase
   def test_post_model
